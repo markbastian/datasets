@@ -1,4 +1,6 @@
 (ns datasets.titanic
+  "Code to process and load the titanic dataset from
+  https://www.kaggle.com/datasets/yasserh/titanic-dataset"
   (:require [clojure.data.csv :as csv]
             [clojure.java.io :as io]
             [clojure.string :as str]

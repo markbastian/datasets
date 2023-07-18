@@ -1,4 +1,6 @@
 (ns datasets.baseball-databank
+  "Code to process and load the baseball databank from
+  https://www.kaggle.com/datasets/open-source-sports/baseball-databank"
   (:require [clojure.data.csv :as csv]
             [clojure.java.io :as io]
             [clojure.string :as str]
