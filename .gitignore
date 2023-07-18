@@ -17,4 +17,6 @@
 /.idea
 *.iml
 /local
+*.sqlite
+/.clj-kondo
 

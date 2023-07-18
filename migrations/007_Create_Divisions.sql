@@ -1,0 +1,3 @@
+CREATE TABLE IF NOT EXISTS Divisions (
+    divID VARCHAR(3) PRIMARY KEY
+);
